@@ -1,0 +1,12 @@
+{
+    "name": "snapperit/fishead",
+    "description": "Snapperit's albums",
+    "authors": [
+        {
+            "name": "rameshkolamala",
+            "email": "rameshzce@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
